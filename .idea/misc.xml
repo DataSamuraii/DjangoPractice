@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (djangoPractice)" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ace482d7-d982-4062-bb5b-4caba43ce867" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11 (djangoPractice)" project-jdk-type="Python SDK" />
+</project>
